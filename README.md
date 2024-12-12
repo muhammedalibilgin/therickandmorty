@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 Characters page made using [rickandmortyapi.com](https://rickandmortyapi.com)
 
-Live [therickandmorty-jdleshzfc-muhammedalibilgins-projects](https://therickandmorty-jdleshzfc-muhammedalibilgins-projects.vercel.app/)
+Live [therickandmorty live project](https://therickandmorty-seven.vercel.app/)
